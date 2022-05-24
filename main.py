@@ -3,7 +3,7 @@
 # program by speedtest program
 # cybok hackers 
 # cybok wars 
-# author : design: vaimpier ritik 
+# design: vaimpier ritik 
 # testing ...
 
 #------------------------------imports 
